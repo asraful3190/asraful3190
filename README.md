@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Asraful Isalm Emon
 #### Flutter Developer
-![Flutter Developer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/105037705_1022981761450683_4512387305017464917_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHqfXBy8xnT883inw5QFE6yPhmzOFTAIxE-GbM4VMAjEeNP1OfLoe0FnbeXUf0psob-_flsYQtCDYGdwxRZp5q0&_nc_ohc=TkhJzDwmruoAX_Jio5Y&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT-ARPEjVVX_urlORVib3ZET6QfG_tWcRyA2vtYa0wFlbg&oe=61F305DD)
-
 Hello, I'm Asraful Islam & I have 2+ years of experience in Social Media (Facebook, Instagram, Pinterest & Twitter) Marketing Campaigns as well as Google Ads (Search, Display & Video) Campaigns. So, if you are looking for someone who can make great marketing campaigns for your ads & optimize them with pin-point audience targeting, then no need to look anywhere else. I am also  flutter developer now.
 
 Skills: Flutter/Digital marketing
